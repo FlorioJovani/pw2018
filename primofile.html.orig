@@ -1,0 +1,6 @@
+Prima riga
+<<<<<<< HEAD
+Questa è la seconda riga modificata
+=======
+Seconda riga modificata
+>>>>>>> b1
